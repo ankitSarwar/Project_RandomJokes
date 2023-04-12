@@ -61,9 +61,6 @@ public class RandomJokes2Application {
 //		} else {
 //			System.out.println("This is not valid URL- " + responseCode);
 //		}
-
-
-
 	}
 
 }
